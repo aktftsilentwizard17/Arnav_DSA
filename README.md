@@ -45,4 +45,12 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
