@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
+| [2119-a-number-after-a-double-reversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2119-a-number-after-a-double-reversal) |
 ## Dynamic Programming
 |  |
 | ------- |
