@@ -65,6 +65,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2917-find-the-k-or-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2917-find-the-k-or-of-an-array) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Recursion
 |  |
 | ------- |
