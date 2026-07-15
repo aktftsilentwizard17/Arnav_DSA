@@ -43,6 +43,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3280-convert-date-to-binary](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3280-convert-date-to-binary) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
