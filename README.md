@@ -30,6 +30,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 | [2460-apply-operations-to-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -38,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1486-xor-operation-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2119-a-number-after-a-double-reversal) |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
