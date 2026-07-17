@@ -79,6 +79,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0461-hamming-distance) |
