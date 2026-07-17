@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0263-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
