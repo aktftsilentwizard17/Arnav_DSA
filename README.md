@@ -20,6 +20,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
 | [2460-apply-operations-to-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2917-find-the-k-or-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2917-find-the-k-or-of-an-array) |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0263-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
@@ -104,6 +106,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -117,5 +120,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
