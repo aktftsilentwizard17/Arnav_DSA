@@ -26,6 +26,7 @@
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0485-max-consecutive-ones) |
+| [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1929-concatenation-of-array) |
@@ -48,6 +49,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -141,4 +143,8 @@
 | ------- |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2427-number-of-common-factors) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
