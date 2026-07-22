@@ -35,6 +35,7 @@
 | [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1470-shuffle-the-array) |
+| [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
+| [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3146-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
@@ -169,4 +171,8 @@
 | [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
