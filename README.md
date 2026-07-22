@@ -84,6 +84,7 @@
 | [2396-strictly-palindromic-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2427-number-of-common-factors) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3280-convert-date-to-binary](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3280-convert-date-to-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Enumeration
 |  |
 | ------- |
