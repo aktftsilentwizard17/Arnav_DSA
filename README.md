@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0566-reshape-the-matrix) |
@@ -112,6 +113,7 @@
 | [0053-maximum-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
@@ -168,6 +171,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
