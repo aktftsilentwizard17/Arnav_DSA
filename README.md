@@ -25,6 +25,7 @@
 | [0053-maximum-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
