@@ -81,6 +81,7 @@
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0263-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -106,6 +107,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
 |  |
@@ -204,4 +206,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
