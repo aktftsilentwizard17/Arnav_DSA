@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
@@ -163,6 +164,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0278-first-bad-version) |
