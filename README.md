@@ -75,6 +75,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
