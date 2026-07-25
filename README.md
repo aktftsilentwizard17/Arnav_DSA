@@ -34,6 +34,7 @@
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0566-reshape-the-matrix) |
+| [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -128,6 +129,7 @@
 | [0338-counting-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -141,12 +143,14 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3146-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [3536-maximum-product-of-two-digits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
