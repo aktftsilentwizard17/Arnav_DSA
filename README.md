@@ -89,6 +89,7 @@
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3280-convert-date-to-binary](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3280-convert-date-to-binary) |
+| [3536-maximum-product-of-two-digits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
