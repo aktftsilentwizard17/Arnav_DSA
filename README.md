@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
@@ -76,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0069-sqrtx) |
@@ -152,6 +154,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
