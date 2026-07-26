@@ -34,6 +34,7 @@
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
@@ -80,6 +81,7 @@
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [3536-maximum-product-of-two-digits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
