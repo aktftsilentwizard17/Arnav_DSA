@@ -15,6 +15,7 @@
 | [1768-merge-strings-alternately](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1768-merge-strings-alternately) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3280-convert-date-to-binary) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
