@@ -11,6 +11,7 @@
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1768-merge-strings-alternately) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
