@@ -41,6 +41,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
@@ -197,6 +198,7 @@
 | [0074-search-a-2d-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
