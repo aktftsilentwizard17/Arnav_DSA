@@ -157,6 +157,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -257,4 +258,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
