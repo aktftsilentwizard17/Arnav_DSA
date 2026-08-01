@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -147,6 +148,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0191-number-of-1-bits) |
@@ -205,6 +207,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0069-sqrtx) |
