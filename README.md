@@ -45,6 +45,7 @@
 | [0169-majority-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
 | [0454-4sum-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0454-4sum-ii) |
@@ -183,6 +184,7 @@
 | [0013-roman-to-integer](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0454-4sum-ii) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
@@ -195,6 +197,7 @@
 | [0018-4sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Interactive
