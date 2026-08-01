@@ -34,6 +34,7 @@
 | [0048-rotate-image](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0074-search-a-2d-matrix) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
