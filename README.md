@@ -182,6 +182,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0206-reverse-linked-list) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Hash Table
 |  |
@@ -297,4 +298,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
