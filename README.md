@@ -70,6 +70,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2460-apply-operations-to-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2917-find-the-k-or-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2917-find-the-k-or-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3731-find-missing-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3731-find-missing-elements) |
@@ -199,6 +200,7 @@
 | [0454-4sum-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0454-4sum-ii) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3731-find-missing-elements) |
@@ -213,6 +215,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3536-maximum-product-of-two-digits) |
