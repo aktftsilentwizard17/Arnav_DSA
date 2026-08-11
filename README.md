@@ -68,6 +68,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2917-find-the-k-or-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -215,6 +216,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -241,6 +243,7 @@
 | [0278-first-bad-version](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
