@@ -124,6 +124,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2169-count-operations-to-obtain-zero) |
