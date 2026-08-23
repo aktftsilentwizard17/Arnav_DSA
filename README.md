@@ -66,6 +66,7 @@
 | [0704-binary-search](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0890-find-and-replace-pattern) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -259,6 +260,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
