@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0796-rotate-string) |
@@ -201,6 +202,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0454-4sum-ii) |
