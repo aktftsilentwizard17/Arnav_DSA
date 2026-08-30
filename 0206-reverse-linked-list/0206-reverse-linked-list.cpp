@@ -12,16 +12,16 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
-        ListNode* curr = head;
         ListNode* next = NULL;
+        ListNode* curr = head;
 
         while(curr!=NULL){
-            next=curr->next;
-            curr->next=prev;
-            prev = curr;
-            curr = next;
+            next=curr->next;//store next node in next
+            curr->next=prev;//reverse the next link
+            prev=curr;//move prev ahead
+            curr=next;//move curr ahead
         }
 
-        return prev;
+        return prev;//if it was a void type fnx [void(**head)], we would do *head=prev
     }
 };
