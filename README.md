@@ -100,6 +100,7 @@
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -344,6 +345,7 @@
 | [0206-reverse-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Union-Find
 |  |
 | ------- |
