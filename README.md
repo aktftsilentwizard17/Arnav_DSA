@@ -88,6 +88,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -358,4 +359,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0142-linked-list-cycle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
