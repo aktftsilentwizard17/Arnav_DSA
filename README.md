@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0205-isomorphic-strings) |
@@ -163,6 +164,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0118-pascals-triangle) |
@@ -337,6 +339,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0401-binary-watch) |
 ## Trie
 |  |
@@ -363,4 +366,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3903-smallest-stable-index-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
