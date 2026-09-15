@@ -231,6 +231,7 @@
 | [0290-word-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [0890-find-and-replace-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -358,6 +359,7 @@
 | [0206-reverse-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Union-Find
 |  |
@@ -380,8 +382,10 @@
 | ------- |
 | [0146-lru-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
