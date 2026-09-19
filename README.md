@@ -74,6 +74,7 @@
 | [0704-binary-search](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
@@ -296,6 +297,7 @@
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
