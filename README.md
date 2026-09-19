@@ -82,6 +82,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1929-concatenation-of-array) |
@@ -299,6 +300,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
