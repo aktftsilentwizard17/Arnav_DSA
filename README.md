@@ -88,6 +88,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2917-find-the-k-or-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2917-find-the-k-or-of-an-array) |
+| [2951-find-the-peaks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -310,6 +311,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2427-number-of-common-factors) |
+| [2951-find-the-peaks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
