@@ -113,6 +113,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
@@ -148,6 +149,7 @@
 | [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -243,6 +245,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0290-word-pattern) |
@@ -401,6 +404,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0202-happy-number) |
 ## Prefix Sum
 |  |
 | ------- |
