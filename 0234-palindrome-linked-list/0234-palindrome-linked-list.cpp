@@ -17,11 +17,11 @@ public:
             stack.push(curr->val);
             curr=curr->next;
         }
-        curr=head;//re-initialize
+        curr=head; //re-initialize for iterating again and checking same or not
         while(curr!=nullptr&&curr->val==stack.top()){
             stack.pop();
             curr=curr->next;
         }
-        return curr==nullptr;
+        return stack.empty();
     }
 };
