@@ -29,6 +29,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
 | [0946-validate-stack-sequences](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0946-validate-stack-sequences) |
@@ -60,6 +61,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -159,6 +161,7 @@
 | [0048-rotate-image](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0202-happy-number) |
