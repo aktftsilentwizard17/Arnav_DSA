@@ -15,6 +15,7 @@
 | [0290-word-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -33,6 +34,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0394-decode-string) |
 | [0946-validate-stack-sequences](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -251,6 +253,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0394-decode-string) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Hash Table
 |  |
