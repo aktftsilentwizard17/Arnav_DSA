@@ -19,6 +19,7 @@
 | [0890-find-and-replace-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -96,6 +97,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1711-count-good-meals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1711-count-good-meals) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -273,6 +275,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1711-count-good-meals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1711-count-good-meals) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3146-permutation-difference-between-two-strings) |
