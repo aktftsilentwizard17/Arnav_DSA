@@ -35,6 +35,7 @@
 | [0155-min-stack](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -77,6 +78,7 @@
 | [0410-split-array-largest-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -273,6 +275,7 @@
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [0890-find-and-replace-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -478,5 +481,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
