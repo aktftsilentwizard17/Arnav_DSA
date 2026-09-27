@@ -131,6 +131,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
@@ -427,6 +428,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0206-reverse-linked-list) |
