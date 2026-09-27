@@ -60,6 +60,7 @@
 | [0059-spiral-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0118-pascals-triangle) |
@@ -239,6 +240,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -412,6 +414,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0401-binary-watch) |
 ## Trie
 |  |
