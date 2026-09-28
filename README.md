@@ -20,6 +20,7 @@
 | [0890-find-and-replace-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -41,6 +42,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -461,6 +463,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
