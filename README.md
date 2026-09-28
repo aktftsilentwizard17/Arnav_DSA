@@ -16,6 +16,7 @@
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -38,6 +39,7 @@
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0946-validate-stack-sequences](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -220,6 +222,7 @@
 | [0338-counting-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
@@ -357,6 +360,7 @@
 | [0011-container-with-most-water](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -462,6 +466,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
