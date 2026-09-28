@@ -508,4 +508,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1019-next-greater-node-in-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
