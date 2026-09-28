@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0290-word-pattern) |
@@ -137,6 +138,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
