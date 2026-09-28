@@ -46,6 +46,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2270-number-of-ways-to-split-array) |
@@ -509,6 +511,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Quicksort
 |  |
 | ------- |
