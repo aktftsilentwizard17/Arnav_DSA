@@ -1,18 +1,18 @@
 class Solution {
 private:
     bool fun(const vector<int>& weights,int days, int capacity){
-        int currweight = 0;
-        int totaldays = 1;
-        for(int w:weights){
-            if(currweight+w>capacity){
-                totaldays++;
-                currweight=w;
+        int currcap = 0;
+        int reqdays = 1;
+        for(int i:weights){
+            if(currcap+i>capacity){
+                reqdays++;
+                currcap=i;
             }
             else{
-                currweight+=w;
+                currcap+=i;
             }
         }
-        return totaldays<=days;
+        return reqdays<=days;
     }
 public:
     int shipWithinDays(vector<int>&weights,int days){
