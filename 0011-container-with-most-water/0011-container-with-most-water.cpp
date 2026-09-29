@@ -3,15 +3,20 @@ public:
     int maxArea(vector<int>& height) {
         //as two heights being condidered, use two pointer approach (kadane's)
         int maxwater=0;
-        int lp=0,rp=height.size()-1;
+        int i=0,j=height.size()-1;
 
-        while(lp<rp){
-            int w = rp-lp;
-            int h = min(height[lp],height[rp]);
-            int currentwater = w*h;
-            maxwater=max(maxwater,currentwater);
+        while(i<j){
+            int w=j-i;
+            int h=min(height[i],height[j]);
+            int currwater=w*h;
+            maxwater=max(maxwater,currwater);
 
-            height[lp]<height[rp] ? lp++ : rp--;
+            if(height[i]<height[j]){
+                i++;
+            }
+            else{
+                j--;
+            }
         }
 
         return maxwater;
