@@ -47,6 +47,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Hash Table
 |  |
@@ -462,6 +464,7 @@
 | [0460-lfu-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0460-lfu-cache) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -523,6 +526,7 @@
 | [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Quicksort
 |  |
 | ------- |
