@@ -30,16 +30,22 @@ public:
 
         //------------------------------------------------------------------------------
 
-        //hash map
-        unordered_map<int,int> count; //stores index in this question
-        int n = nums.size();
+        // Fast I/O for competitive programming / LeetCode
+        ios_base::sync_with_stdio(false);
+        cin.tie(nullptr);
 
-        for(int i=0;i<n;i++){
-            int needed = target-nums[i];
-            if(count.count(needed)){
-                return {count[needed],i};
+        // Optimized hash map solution: O(n) time, O(n) space
+        int n = nums.size();
+        unordered_map<int, int> count;
+        count.reserve(n); // Pre-allocate buckets to prevent dynamic rehashing
+
+        for (int i = 0; i < n; ++i) {
+            int needed = target - nums[i];
+            auto it = count.find(needed); // Single hash calculation & bucket lookup
+            if (it != count.end()) {
+                return {it->second, i};
             }
-            count[nums[i]]=i;
+            count[nums[i]] = i;
         }
 
         return {};
