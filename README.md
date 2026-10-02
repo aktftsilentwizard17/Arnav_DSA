@@ -26,6 +26,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -313,6 +314,7 @@
 | [1711-count-good-meals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1711-count-good-meals) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -411,6 +413,7 @@
 | [0169-majority-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Interactive
 |  |
@@ -539,4 +542,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
