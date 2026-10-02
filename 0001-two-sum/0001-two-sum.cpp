@@ -30,16 +30,18 @@ public:
 
         //------------------------------------------------------------------------------
 
-        //hash map
-        unordered_map<int,int> count; //stores index in this question
+        // Optimized hash map solution
         int n = nums.size();
+        unordered_map<int, int> count;
+        count.reserve(n); // Pre-allocate buckets to prevent rehashing
 
-        for(int i=0;i<n;i++){
-            int needed = target-nums[i];
-            if(count.count(needed)){
-                return {count[needed],i};
+        for (int i = 0; i < n; ++i) {
+            int needed = target - nums[i];
+            auto it = count.find(needed); // Single lookup
+            if (it != count.end()) {
+                return {it->second, i};
             }
-            count[nums[i]]=i;
+            count[nums[i]] = i;
         }
 
         return {};
