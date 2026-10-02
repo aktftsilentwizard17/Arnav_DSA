@@ -96,6 +96,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -534,4 +535,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0056-merge-intervals) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
