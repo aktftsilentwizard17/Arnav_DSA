@@ -30,6 +30,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -546,4 +547,5 @@
 | [0643-maximum-average-subarray-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
