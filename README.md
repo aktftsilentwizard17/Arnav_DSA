@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0118-pascals-triangle) |
@@ -499,6 +502,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
