@@ -456,6 +456,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0401-binary-watch) |
 ## Trie
