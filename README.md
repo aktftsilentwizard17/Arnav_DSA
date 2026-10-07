@@ -44,6 +44,7 @@
 | [0020-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
@@ -534,6 +535,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Ternary Search
 |  |
@@ -570,4 +572,12 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
