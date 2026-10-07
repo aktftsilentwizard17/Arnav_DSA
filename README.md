@@ -43,6 +43,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -535,6 +536,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Ternary Search
@@ -575,9 +577,11 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
