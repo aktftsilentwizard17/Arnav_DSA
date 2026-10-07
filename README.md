@@ -537,6 +537,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Ternary Search
@@ -578,10 +579,16 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
