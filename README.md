@@ -207,6 +207,7 @@
 | [0050-powx-n](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -469,6 +471,7 @@
 | [0046-permutations](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0401-binary-watch) |
 ## Trie
 |  |
