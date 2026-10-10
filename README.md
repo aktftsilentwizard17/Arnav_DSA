@@ -17,6 +17,7 @@
 | [0171-excel-sheet-column-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0394-decode-string) |
@@ -333,6 +334,7 @@
 | [0205-isomorphic-strings](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0460-lfu-cache) |
@@ -442,6 +444,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -615,5 +618,6 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
