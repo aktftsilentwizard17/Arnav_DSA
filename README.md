@@ -53,6 +53,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
@@ -553,6 +554,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
@@ -629,6 +631,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2073-time-needed-to-buy-tickets) |
