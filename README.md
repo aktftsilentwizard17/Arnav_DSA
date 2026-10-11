@@ -66,6 +66,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -136,6 +137,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1711-count-good-meals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1711-count-good-meals) |
 | [1748-sum-of-unique-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -199,6 +201,7 @@
 | [0867-transpose-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -634,5 +637,6 @@
 | [0232-implement-queue-using-stacks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
