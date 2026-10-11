@@ -481,6 +481,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0796-rotate-string) |
 ## Backtracking
 |  |
@@ -575,6 +576,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Ternary Search
 |  |
 | ------- |
@@ -618,6 +620,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -626,6 +629,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -639,4 +643,8 @@
 | [0622-design-circular-queue](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2073-time-needed-to-buy-tickets) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
