@@ -143,6 +143,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2460-apply-operations-to-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2917-find-the-k-or-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [2951-find-the-peaks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -423,6 +424,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
