@@ -578,6 +578,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Ternary Search
 |  |
@@ -623,6 +624,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -633,6 +635,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -655,4 +658,5 @@
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
