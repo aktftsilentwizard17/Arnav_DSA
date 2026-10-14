@@ -631,6 +631,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -645,6 +646,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -669,4 +671,8 @@
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
