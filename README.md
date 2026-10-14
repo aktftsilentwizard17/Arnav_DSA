@@ -89,6 +89,7 @@
 | [0056-merge-intervals](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0078-subsets) |
@@ -219,6 +220,7 @@
 | [0013-roman-to-integer](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0089-gray-code) |
