@@ -9,11 +9,12 @@ public:
                 q.push(i);
             }
             map[s[i]]++;
-            while(q.size()>0&&map[s[q.front()]]>1){
+            while(!q.empty()&&map[s[q.front()]]>1){
                 q.pop();
             }
         }
 
-        return q.empty()?-1:q.front();
+        if(!q.empty()) return q.front();
+        return -1;
     }
 };
