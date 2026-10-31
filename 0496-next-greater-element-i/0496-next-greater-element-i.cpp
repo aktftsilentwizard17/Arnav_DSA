@@ -8,17 +8,15 @@ public:
             while(!s.empty()&&s.top()<=nums2[i]){
                 s.pop();
             }
-            int assignval = -1;
             if(s.empty()) map[nums2[i]]=-1;
             else map[nums2[i]]=s.top();
-
             s.push(nums2[i]);
         }
 
-        vector<int> res;
+        vector<int> ans;
         for(int i:nums1){
-            res.push_back(map[i]);
+            ans.push_back(map[i]);
         }
-        return res;
+        return ans;
     }
 };
