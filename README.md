@@ -109,6 +109,7 @@
 | [0169-majority-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0283-move-zeroes) |
@@ -414,6 +415,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0410-split-array-largest-sum) |
@@ -553,6 +555,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0410-split-array-largest-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [3903-smallest-stable-index-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3903-smallest-stable-index-i) |
@@ -628,6 +631,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
