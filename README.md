@@ -118,6 +118,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -240,6 +241,7 @@
 | [0204-count-primes](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -385,6 +387,7 @@
 | [0229-majority-element-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0881-boats-to-save-people) |
