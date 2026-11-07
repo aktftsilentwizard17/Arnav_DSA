@@ -609,6 +609,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -663,6 +664,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -682,6 +684,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -718,6 +721,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/0701-insert-into-a-binary-search-tree) |
