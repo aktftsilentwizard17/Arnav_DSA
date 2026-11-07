@@ -22,8 +22,8 @@ public:
                 TreeNode* curr = q.front();
                 q.pop();
                 if(i==s-1) result.push_back(curr->val);
-                if(curr->left) q.push(curr->left);
-                if(curr->right) q.push(curr->right);
+                if(curr->left!=NULL) q.push(curr->left);
+                if(curr->right!=NULL) q.push(curr->right);
             }
         }
         return result;
