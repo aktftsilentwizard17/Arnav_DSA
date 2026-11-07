@@ -11,16 +11,20 @@
  */
 class Solution {
 public:
-    vector<int> inorder;
     int kthSmallest(TreeNode* root, int k) {
-        inordertraversal(root);
-        sort(inorder.begin(),inorder.end());
-        return inorder[k-1];
+        int cnt = 0;
+        int ans;
+        solve(root,cnt,ans,k);
+        return ans;
     }
-    void inordertraversal(TreeNode* node){
-        if(node==NULL) return;
-        inordertraversal(node->left);
-        inorder.push_back(node->val);
-        inordertraversal(node->right);
+    void solve(TreeNode* root,int &cnt,int &ans,int k){
+        if(root==NULL) return;
+        solve(root->left,cnt,ans,k);
+        cnt++;
+        if(cnt==k){
+            ans=root->val;
+            return;
+        }
+        solve(root->right,cnt,ans,k);
     }
 };
