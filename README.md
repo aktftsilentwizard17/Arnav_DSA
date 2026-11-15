@@ -167,6 +167,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
