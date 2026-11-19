@@ -161,6 +161,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2917-find-the-k-or-of-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [2951-find-the-peaks](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2951-find-the-peaks) |
@@ -413,6 +414,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -467,6 +469,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aktftsilentwizard17/Arnav_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
